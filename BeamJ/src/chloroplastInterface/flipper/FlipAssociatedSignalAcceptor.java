@@ -1,0 +1,4 @@
+package chloroplastInterface.flipper;
+
+public interface FlipAssociatedSignalAcceptor extends SimpleSignalAcceptor,FlipAssociatedSignalSettings
+{}
