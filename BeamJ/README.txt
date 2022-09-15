@@ -1,17 +1,17 @@
 ********************************
-*  AtomicJ Version 1.4 *
+*  BeamJ Version 1.0 *
 ********************************
 
-23 January 2014
+15 September 2022
 
-(C) Copyright 2013 - 2014 by Pawel Hermanowicz.
+(C) Copyright 2022 by Pawel Hermanowicz and Jagiellonian University.
 
 
-AtomicJ is an application for analysis of Atomic Force Microscopy data, in particular extracting mechanical properties from force curves and analysis of AFM images.
+BeamJ is an application for analysis of Atomic Force Microscopy data, in particular extracting mechanical properties from force curves and analysis of AFM images.
 
-AtomicJ is licensed under the terms of the GNU General Public License (GPL).  A copy of the license is included in the distribution.
+BeamJ is licensed under the terms of the GNU General Public License (GPL).  A copy of the license is included in the distribution.
 
-Please note that AtomicJ  is distributed WITHOUT ANY WARRANTY;
+Please note that BeamJ is distributed WITHOUT ANY WARRANTY;
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 PARTICULAR PURPOSE.  Please refer to the license for details.
 
@@ -19,9 +19,9 @@ PARTICULAR PURPOSE.  Please refer to the license for details.
 DEPENDENCIES
 ******************************************************
 
-AtomicJ  has the following dependencies:
+BeamJ has the following dependencies:
 
-(a)  Java Runtime Environment (JRE) 1.7 or higher. AtomicJ is available for download bundled with JRE 1.7 update 13,  wrapped as a MS Windows executable. If you run the executable jar file, you must install JRE, which can be downloaded from the Oracle website (http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html)
+(a)  Java Runtime Environment (JRE) 1.8 or higher.
 
 JRE is owned by Oracle and is distributed under the Oracle Binary Code License Agreement (http://www.oracle.com/technetwork/java/javase/terms/license/index.html). 
 
@@ -30,25 +30,25 @@ JRE is owned by Oracle and is distributed under the Oracle Binary Code License A
 
 http://www.jfree.org/jfreechart/api/javadoc/index.html
 
-(c) JCommon - version 1.0.0 or later.  The jar file (version 1.0.17) is included in the AtomicJ distribution.  The complete source code for JCommon is available at:
+(c) JCommon - version 1.0.0 or later.  The jar file (version 1.0.17) is included in the BeamJ distribution.  The complete source code for JCommon is available at:
 
     http://www.jfree.org/jcommon/
 
 JCommon is licensed under the terms of the GNU Lesser General Public License.
 
 (d)  FreeHEP Vector Graphics 2.1.1 or later.  The necessary jar files (version. 2.1.1.)
-are included in the AtomicJ distribution.  You can obtain the complete
+are included in the BeamJ distribution.  You can obtain the complete
 source code for FreeHEp Vector graphics from:
 
 http://java.freehep.org/vectorgraphics/index.html/
 
 FreeHEP Vector Graphics 2.1.1 is licensed under the terms of the GNU Lesser General Public License.
 
-(e)  Apache Commons Sanselan 0.97 or higher, available under the  ASF (Apache) License. The license can be found at http://www.apache.org/licenses/LICENSE-2.0. Sanselan is a library for reading and writing various image formats. The necessary jar file is included in the AtomicJ distribution. Complete source code of Sanselan can be found at
+(e)  Apache Commons Sanselan 0.97 or higher, available under the  ASF (Apache) License. The license can be found at http://www.apache.org/licenses/LICENSE-2.0. Sanselan is a library for reading and writing various image formats. The necessary jar file is included in the BeamJ distribution. Complete source code of Sanselan can be found at
 
 http://commons.apache.org/imaging/
 
-(f) JAMA version 1.0.2 or higher, a public domain java matrix manipulation library. The necessary jar file is included in this distribution of AtomicJ. The complete source code and list of authors can be found at  
+(f) JAMA version 1.0.2 or higher, a public domain java matrix manipulation library. The necessary jar file is included in this distribution of BeamJ. The complete source code and list of authors can be found at  
 
 lihttp://math.nist.gov/javanumerics/jama/.
 
@@ -86,9 +86,7 @@ the Bioformats library (see http://loci.wisc.edu/software/bio-formats, http://do
 SUPPORT
 **************************************************
 
-If you have any questions , bug reports or request regarding new features that should be added to AtomicJ, please write to
+If you have any questions , bug reports or request regarding new features that should be added to BeamJ, please write to
 
 pawel.hermanowicz@uj.edu.pl
-
-Request to include support for new AFM data format files are especially welcome, just as are request to include new methods for contact point estimation.
 
