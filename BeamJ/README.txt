@@ -7,7 +7,7 @@
 (C) Copyright 2022 by Pawel Hermanowicz and Jagiellonian University.
 
 
-BeamJ is an application for analysis of Atomic Force Microscopy data, in particular extracting mechanical properties from force curves and analysis of AFM images.
+BeamJ is an application for controlling optomechanical setups.
 
 BeamJ is licensed under the terms of the GNU General Public License (GPL).  A copy of the license is included in the distribution.
 
@@ -90,3 +90,17 @@ If you have any questions , bug reports or request regarding new features that s
 
 pawel.hermanowicz@uj.edu.pl
 
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
